@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bookmanage.png</file>
+        <file>images/borrowbooks.png</file>
+        <file>images/exit.png</file>
+        <file>images/library.png</file>
+        <file>images/login.png</file>
+        <file>images/logmanage.png</file>
+        <file>images/logout.png</file>
+        <file>images/readermanage.png</file>
+        <file>images/renewbooks.png</file>
+        <file>images/returnbooks.png</file>
+        <file>images/statistics.png</file>
+        <file>images/user.png</file>
+        <file>images/usermanage.png</file>
+        <file>images/passwordmodify.png</file>
+        <file>images/print.png</file>
+        <file>images/add.png</file>
+        <file>images/delete.png</file>
+        <file>images/modify.png</file>
+        <file>translations/Library_zh.qm</file>
+        <file>qss/library.qss</file>
+    </qresource>
+</RCC>
